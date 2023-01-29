@@ -1,5 +1,5 @@
 # backend_projects
-Projects on Python,OOP concepts,Rest API,MySQL, MongoDB.
+Projects on Python , SQL, OOPs concepts, MySQL,.
 
 ## 1. Student Grade Book
 - Python & OOP concepts.
