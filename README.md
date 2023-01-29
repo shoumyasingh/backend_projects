@@ -10,3 +10,8 @@ Projects on Python,OOP concepts,Rest API,MySQL, MongoDB.
 - MySQL concepts
 - Designed the EER model of Ride sharing company - Lyft. 
 - Features include: EER modelling of Lyft, database design implementation of lyft.
+
+## 3. Italian Restaurant Database Management System
+- SQL concepts
+- Designed the ER model and Entity diagram for Italian Restaurant Management System. 
+- Features include: ER model, database design , DBA roles.
